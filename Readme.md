@@ -59,6 +59,7 @@ Foydalanuvchi fayl va papkalarni tanlab, ROOT papka nomini kiritadi va dasturni 
 
 ## Yaratuvchi 
 1. Familya: Otaboyev 
-2. Isim: Otaboyev 
+2. Isim: Sardorbek
 3. Universited:  Namangan davlat universitedi
 4. Gurux: K.KID-AU-23
+5. Telegram: [Otaboyev  Sardorbek](https://t.me/prodevuzoff)
