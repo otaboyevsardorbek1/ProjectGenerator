@@ -1,4 +1,4 @@
-# UNIVERSAL PROJECT GENERATOR (C# WinForms)
+# UNIVERSAL PROJECT GENERATOR (C# WinForms, python cli)
 
 ## Loyihaning maqsadi
 Ushbu dastur talabalarga **loyiha papkasi va fayllarni avtomatik yaratish** jarayonini o‘rgatish uchun mo‘ljallangan.  
@@ -52,6 +52,13 @@ Foydalanuvchi fayl va papkalarni tanlab, ROOT papka nomini kiritadi va dasturni 
 
 ## Foydalanish
 
-1. Visual Studio da `WinFormsProjectGenerator` loyihasini oching.  
+1. Visual Studio da `ProjectGenerator.cs` loyihasini oching.  
 2. `NuGet` orqali `YamlDotNet` paketini o‘rnating:  
 
+---
+
+## Yaratuvchi 
+1. Familya: Otaboyev 
+2. Isim: Otaboyev 
+3. Universited:  Namangan davlat universitedi
+4. Gurux: K.KID-AU-23
