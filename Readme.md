@@ -1,4 +1,4 @@
-# UNIVERSAL PROJECT GENERATOR  
+# UNIVERSAL PROJECT BULDER
 (C# WinForms + Python CLI Version)
 
 ## 📌 Project Purpose
